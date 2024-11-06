@@ -1,2 +1,2 @@
 # Detect-Tense
-It is a working model, which will detect the tense of a sentence.
+This project focuses on building a robust model that automatically detects the tense of English sentences. Leveraging Natural Language Processing (NLP) techniques and machine learning algorithms, the model is designed to classify sentences into one of three main tenses: past, present, or future. Built using Python and its NLP libraries, such as NLTK and spaCy, this project demonstrates the effectiveness of machine learning in understanding and categorizing linguistic features in text data.
